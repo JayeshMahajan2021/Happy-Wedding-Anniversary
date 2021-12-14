@@ -1,0 +1,32 @@
+
+            h3{
+                color:blue;      
+                border: dashed;
+            }
+         .header{
+             background-color: aqua;
+             display: flex;
+             justify-content: space-around ;
+             font-size: larger;
+             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+         }
+         .menu{
+             background-color: aqua;
+             justify-content: space-evenly;
+         }
+         .grid{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+         }
+         .footer{
+            display: flex;
+            justify-content: left;
+         }
+
+         body{
+             background-color:#abcdef;
+             background-image:url(https://imgcdn.floweraura.com/happy-anniversary-cake-9935200ca.jpg);
+             font-family: Verdana, Geneva, Tahoma, sans-serif;
+         }
